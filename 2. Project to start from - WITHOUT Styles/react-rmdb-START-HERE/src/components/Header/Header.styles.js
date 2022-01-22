@@ -1,7 +1,7 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-    background: var(--darkgray);
+    background: var(--darkGray);
     padding: 0 20px;
 `;
 
